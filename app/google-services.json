@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976131267564",
+    "project_id": "lks-zulawy",
+    "storage_bucket": "lks-zulawy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976131267564:android:428743b7e5cc37b7043ec9",
+        "android_client_info": {
+          "package_name": "com.example.lkszulawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976131267564-frp0s9fi0of1gm45rumfqpd27ccn03au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8PTopxvT58aAAyRO3m49xu7vNY_ggQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976131267564-frp0s9fi0of1gm45rumfqpd27ccn03au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
